@@ -1,0 +1,41 @@
+*{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+body{
+    overflow: hidden;
+}
+h1{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+.billy{
+   
+position: relative;
+top:190px ;
+left:20px;
+height: fit-content;
+        width: fit-content;
+        text-align: center;
+
+}
+.jerome{
+    position: relative;
+    left:500px; 
+bottom: 70px; 
+height: fit-content;
+        width: fit-content;
+        text-align: center;  }
+   
+    .will{
+        position: relative;
+        left:1010px;
+        bottom:350px;
+       
+        height: fit-content;
+        width: fit-content;
+        text-align: center;
+        }
+        
